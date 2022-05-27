@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Location is required to search for weather</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Location is required to search for weather</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location is required to search for weather</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
